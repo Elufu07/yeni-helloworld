@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(255, 233, 196);
+    height: 2000px;
+}
+.pembekedi{
+    color: rgba(255, 77, 0, 0.916);
+}
+.buyukluk{
+
+    font-size: 50px;
+}
+.blue{
+    color: blue;
+
+}
+.arka{
+    background-color: rgb(139, 182, 255);
+
+}
+.arkasarı{
+    background-color: rgb(255, 238, 139);
+
+}
+
+#kütüphane{
+    background-color: rgb(173, 255, 167);
+    top: 100px;
+    color: rgb(254, 2, 2);
+    font-size: 20px;
+
+}
+
+.relativeDiv{
+    position: relative;
+    top: 20%;
+    left: 20%;
+    background-color: rgb(255, 157, 157);
+}
+
+.poz{
+    position: relative;
+    top: 10%;
+    right: 10%;
+    background-color: rgb(138, 233, 255);
+}
+
+.flx{
+    position: fixed;
+    top: 10px;
+    left: 10px;
+}
